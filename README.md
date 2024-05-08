@@ -1,8 +1,9 @@
 This is the Andreu Sabater solution for pagination app task.
 *Warning*
-The app creates a directory on ./DOCS so please check the directory of execution
+The app creates a directory on ./DOCS if it is not existing so please check the directory of execution to avoid overwrites
 
-The application can be run by downloading the repository and via terminal calling: java -jar bin.jar.
+The application can be run by downloading the repository and via terminal calling:
+  java -jar bin.jar.
 I recommend this execution from the terminal on the downloaded directory to avoid overwrites.
 
 When the aplication runs you just need to select the file you want to paginate and it will be done.
